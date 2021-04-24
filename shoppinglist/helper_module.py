@@ -1,6 +1,6 @@
 filename = "shopping.txt"
 
-
+#se
 def customers_entry():
     customers_count = int(input('Enter the Number of Customers you want to add ? '))
     customers_count += 1
